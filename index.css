@@ -1,9 +1,7 @@
 :root {
-  --font-color_dark: #292929;
-  --font-color_light: #7c7c7c;
-
   --font-color: white;
   --font-color_dark: #7c7c7c;
+  --font-color_light: #c9c9c9;
 
   --primary-color: #4545c9;
   --primary-color_darker: #2323c6;
@@ -23,11 +21,13 @@
   --dialog-background-color_with_opacity: #4a4a4ae3;
   --dialog-background-color_darker: #393939;
   --dialog-border-color_dark: #626262;
-  --selected-color: #4141bb;
+  --selected-color: #6b6be1b3;
+  --selected-color_opacity: #6b6be17c;
   --selected-color_light: #5151ff;
 
   --background-color_contrast: #454548fc;
   --background-color: rgb(43 45 51 / 97%);
+  --background-color_opacity: rgba(43, 45, 51, 0.638);
   --background-color_light: rgb(43 45 51 / 99%);
   --background-color_dark: rgb(43 45 51 / 99%);
 
@@ -65,7 +65,7 @@ html {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-text-size-adjust: 100%;
-  font-family: Segoe UI Variable;
+  /* font-family: Segoe UI Variable, Avenir, Helvetica, Arial, sans-serif; */
   word-break: normal;
   tab-size: 4;
   overflow: hidden;
