@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkmy_portfolio"]=self["webpackChunkmy_portfolio"]||[]).push([[6845],{6845:function(o,n,t){t.r(n),t.d(n,{VAT_RATE:function(){return u}});const u=.77}}]);
-//# sourceMappingURL=6845.f5b23d03.js.map

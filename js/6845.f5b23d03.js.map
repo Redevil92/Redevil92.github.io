@@ -1,1 +1,0 @@
-{"version":3,"file":"js/6845.f5b23d03.js","mappings":"sKAAO,MAAMA,EAAW,G","sources":["webpack://my-portfolio/./src/components/apps/dutiesCalculator/constants.ts"],"sourcesContent":["export const VAT_RATE = 0.77;\r\n"],"names":["VAT_RATE"],"sourceRoot":""}
