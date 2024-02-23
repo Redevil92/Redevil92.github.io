@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_portfolio"]=self["webpackChunkmy_portfolio"]||[]).push([[3381],{93381:function(t,e,r){r.r(e),r.d(e,{default:function(){return p}});var u=r(56768),o=r(24232),i=r(92500),n=(0,u.pM)({__name:"TaskBarCustomization",props:{height:Number},setup(t){return(e,r)=>((0,u.uX)(),(0,u.CE)("div",{style:(0,o.Tr)(`height: ${t.height}px`)},[(0,u.bF)(i.A)],4))}});const s=n;var p=s}}]);
+//# sourceMappingURL=3381.854c92ff.js.map

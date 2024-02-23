@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_portfolio"]=self["webpackChunkmy_portfolio"]||[]).push([[2813],{82813:function(e,t,i){i.r(t),i.d(t,{default:function(){return n}});var a=i(56768),r=i(55564),o=(0,a.pM)({__name:"FlashItem",props:{itemDialog:Object,height:{type:Number,required:!0}},setup(e){const t=e;return(0,a.sV)((async()=>{if(t.itemDialog){await r.A.readFile(t.itemDialog?.path)}})),(e,t)=>((0,a.uX)(),(0,a.CE)("div"))}});const u=o;var n=u}}]);
+//# sourceMappingURL=2813.f1e0f799.js.map
