@@ -1,0 +1,1 @@
+import{d as t,o as a,c as o,l as r,ai as n,n as s}from"./index-8lyaWh5H.js";const p=t({__name:"TaskBarCustomization",props:{height:Number},setup(e){return(i,c)=>(a(),o("div",{style:s(`height: ${e.height}px`)},[r(n)],4))}});export{p as default};

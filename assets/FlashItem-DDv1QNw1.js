@@ -1,0 +1,1 @@
+import{d as o,b as i,f as r,o as s,c as n}from"./index-8lyaWh5H.js";const p=o({__name:"FlashItem",props:{itemDialog:Object,height:{type:Number,required:!0}},setup(a){const t=a;return i(async()=>{var e;t.itemDialog&&await r.readFile((e=t.itemDialog)==null?void 0:e.path)}),(e,c)=>(s(),n("div"))}});export{p as default};

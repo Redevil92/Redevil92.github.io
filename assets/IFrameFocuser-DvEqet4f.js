@@ -1,0 +1,1 @@
+import{d as t,o as c,c as s,n as a,_ as o}from"./index-8lyaWh5H.js";const r=t({__name:"IFrameFocuser",props:{height:{type:Number}},setup(e){return(n,i)=>(c(),s("div",{style:a(`height: ${e.height}px; width: 100%; `),class:"detect-click-div"},null,4))}}),_=o(r,[["__scopeId","data-v-fa5b7c32"]]);export{_ as I};
